@@ -18,7 +18,7 @@ header {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	border-bottom: solid 1px grey;
+	/* border-bottom: solid 1px grey; */
 
 }
 header img{
